@@ -89,6 +89,7 @@ nav{
   margin:20px 0 70px ;
 }
 .social-media{
+  width: 20rem;
   display: flex;
   margin-top: 20px;
 } 
